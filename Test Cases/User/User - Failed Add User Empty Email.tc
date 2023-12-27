@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User - Failed Add User Empty Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc7f690c-6ddd-4685-a588-7917ff870f75</testCaseGuid>
+</TestCaseEntity>

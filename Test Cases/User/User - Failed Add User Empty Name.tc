@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User - Failed Add User Empty Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b16c8369-c7c0-44dc-a216-b3ca3db9d741</testCaseGuid>
+</TestCaseEntity>
